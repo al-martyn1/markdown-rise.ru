@@ -1,6 +1,6 @@
-# Тестируем
+# Главный сайт
 
-Записки с инфой лежат [тут](drafts/drafts.md)
+Доки [тут](doc.markdown-rise.ru)
 
-[other.md](other.md)
+
 
