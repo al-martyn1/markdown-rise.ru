@@ -1,6 +1,6 @@
 # Главный сайт
 
-Доки [тут](//doc.markdown-rise.ru)
+Доки [тут](//docs.markdown-rise.ru)
 
 
 
